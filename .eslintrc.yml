@@ -1,0 +1,8 @@
+extends: "eslint:recommended"
+parserOptions:
+  ecmasVersion: 8
+  sourceType: "module"
+env:
+  browser: true
+  node: true
+  atomtest: true
