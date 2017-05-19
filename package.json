@@ -8,10 +8,6 @@
     "name": "Chris Fung",
     "url": "https://twitter.com/aergonaut"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aergonaut/languageserver-rust.git"
-  },
   "repository": "https://github.com/aergonaut/languageserver-rust",
   "license": "MIT/Apache-2.0",
   "engines": {
