@@ -2,9 +2,6 @@
 
 Adds support for the [Rust Language Server][1] to [Atom][2].
 
-[1]: https://github.com/rust-lang-nursery/rls
-[2]: https://atom.io
-
 **Caveat lector:** This package is still in development! It might not work in
 some places and there's probably a lot of missing functionality! Please keep
 that in mind if you decide to try it out!
@@ -21,13 +18,10 @@ If RLS is not installed when you install this extension, the extension will show
 an error and not activate. You need to restart Atom after installing RLS for the
 extension to recognize it.
 
-### Package dependencies
+### Install Nuclide
 
-languageserver-rust requires the following packages to be installed in order to
-have full functionality:
-
-*   [Nuclide](https://atom.io/packages/nuclide)
-*   [Linter](https://atom.io/packages/linter)
+languageserver-rust depends on [Nuclide][3] for a lot of its functionality. You
+should install Nuclide for the best experience.
 
 ## License
 
@@ -45,3 +39,7 @@ at your option.
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
 dual licensed as above, without any additional terms or conditions.
+
+[1]: https://github.com/rust-lang-nursery/rls
+[2]: https://atom.io
+[3]: https://nuclide.io
