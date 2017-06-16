@@ -1,7 +1,7 @@
 {
   "name": "languageserver-rust",
   "main": "./lib/languageserver-rust",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds support for RLS to Atom",
   "homepage": "https://github.com/aergonaut/languageserver-rust",
   "author": {
