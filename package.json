@@ -14,7 +14,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-languageclient": "git://github.com/atom/atom-languageclient.git"
+    "atom-languageclient": "^0.1.2"
   },
   "devDependencies": {
     "eslint": "^3.19.0"
