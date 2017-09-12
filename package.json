@@ -14,10 +14,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.1.4"
+    "atom-languageclient": "^0.6.1"
   },
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^4.6.1"
   },
   "consumedServices": {
     "linter-indie": {
