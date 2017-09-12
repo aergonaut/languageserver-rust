@@ -1,5 +1,7 @@
 # languageserver-rust package
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aergonaut/languageserver-rust.svg)](https://greenkeeper.io/)
+
 Adds support for the [Rust Language Server][1] to [Atom][2].
 
 **Caveat lector:** This package is still in development! It might not work in
